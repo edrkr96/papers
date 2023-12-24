@@ -1,6 +1,6 @@
 ---
-name: Custom issue template
-about: Describe this issue template's purpose here.
+name: Survey template
+about: 論文まとめ用のテンプレート
 title: ''
 labels: ''
 assignees: ''
